@@ -1,0 +1,16 @@
+PODS:
+  - PQExtension (0.1.0)
+
+DEPENDENCIES:
+  - PQExtension (from `../`)
+
+EXTERNAL SOURCES:
+  PQExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PQExtension: 531d79dd653ce7bd7d64cd977e33378a2404fd0b
+
+PODFILE CHECKSUM: ef03d3deaeedda225ff4f511bc03c473f08f4dda
+
+COCOAPODS: 1.4.0

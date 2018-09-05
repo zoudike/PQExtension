@@ -1,0 +1,6 @@
+framework module PQExtension {
+  umbrella header "PQExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
