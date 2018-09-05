@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PQExtension_Example' do
+  pod 'PQExtension', :path => '../'
+
+  target 'PQExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
